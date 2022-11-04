@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gobi7270
-- 👀 I’m looking for Entry Software Engineer Job.. 
+- 👀 I’m looking for Entry Level Software Engineer Job.. 
 - 🌱 I’m currently learning Front End Development and Java
 - 📫 How to reach me ...gobi7270@gmail.com
 
