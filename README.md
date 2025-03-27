@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gobi7270
-- 👀 I’m looking for Entry Level Software Engineer Job.. 
-- 🌱 I’m currently learning Front End Development and Java
+- 👀 I'm currently working as a Embedded software Engineer. 
+- 🌱 Learning Microcontroller and Embedded programming started with PIC micro
 - 📫 How to reach me ...gobi7270@gmail.com
 
 <!---
